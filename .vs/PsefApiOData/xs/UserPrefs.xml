@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{6E0CFAB5-7968-4D3C-AF77-FB8FE697298D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/PermohonanController.cs">
+    <Files>
+      <File FileName="Controllers/PermohonanController.cs" Line="96" Column="29" />
+      <File FileName="Controllers/PermohonanCurrentUserController.cs" />
+      <File FileName="Controllers/LaporanController.cs" Line="228" Column="34" />
+      <File FileName="Controllers/PemohonApiController.cs" Line="55" Column="13" />
+      <File FileName="Misc/ApiRole.cs" Line="11" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PsefApiOData" expanded="True">
+            <Node name="PsefApiOData" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Misc" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Side/project/PsefApiOData/Controllers/PermohonanController.cs" relfile="Controllers/PermohonanController.cs" line="139" column="1" />
+      <Breakpoint file="/Users/user/Side/project/PsefApiOData/Controllers/LaporanController.cs" relfile="Controllers/LaporanController.cs" line="241" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PsefApiOData PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
